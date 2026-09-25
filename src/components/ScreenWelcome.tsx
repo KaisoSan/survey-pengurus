@@ -33,7 +33,7 @@ export const ScreenWelcome: React.FC<ScreenWelcomeProps> = ({
       <article className="relative bg-white rounded-3xl p-6 sm:p-10 shadow-xl shadow-stone-200/60 border border-stone-100 overflow-hidden">
         {/* Subtle decorative stamp / badge in the top right corner */}
         <div className="absolute top-4 right-4 sm:top-6 sm:right-6 border-2 border-dashed border-amber-300 rounded-xl p-2 bg-amber-50/60 text-center select-none rotate-3">
-          <div className="text-[10px] uppercase font-bold tracking-wider text-amber-800">OSIS SAM</div>
+          <div className="text-[10px] uppercase font-bold tracking-wider text-amber-800">OSIS</div>
           <div className="text-base leading-none my-0.5">💌</div>
           <div className="text-[9px] text-amber-600 font-mono">2025/2026</div>
         </div>
